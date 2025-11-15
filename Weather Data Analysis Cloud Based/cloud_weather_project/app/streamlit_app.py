@@ -5,6 +5,7 @@ import pandas as pd
 import streamlit as st
 import plotly.express as px
 
+
 DATA_DIR = os.getenv("DATA_DIR", "./data")
 PROC_DIR = os.path.join(DATA_DIR, "processed")
 HOURLY_PATH = os.path.join(PROC_DIR, "hourly.parquet")
