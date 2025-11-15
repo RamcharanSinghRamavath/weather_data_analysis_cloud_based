@@ -1,5 +1,5 @@
 # Cloud-based Weather Data Analysis (End-to-End)
-
+ 
 This is a complete, copy-paste friendly project you can open in VS Code and run end to end.  
 It fetches weather data from the free **Open-Meteo** API (no API key required), processes and analyzes it,
 optionally uploads outputs to **AWS S3**, and provides an interactive **Streamlit** dashboard.
