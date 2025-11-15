@@ -1,0 +1,100 @@
+locations:
+  - name: Hyderabad 
+    latitude: 17.3850
+    longitude: 78.4867
+    timezone: Asia/Kolkata
+
+  - name: Mumbai
+    latitude: 19.0760
+    longitude: 72.8777
+    timezone: Asia/Kolkata
+
+  - name: Delhi
+    latitude: 28.6139
+    longitude: 77.2090
+    timezone: Asia/Kolkata
+
+  - name: Chennai
+    latitude: 13.0827
+    longitude: 80.2707
+    timezone: Asia/Kolkata
+
+  - name: Bengaluru
+    latitude: 12.9716
+    longitude: 77.5946
+    timezone: Asia/Kolkata
+
+  - name: Kolkata
+    latitude: 22.5726
+    longitude: 88.3639
+    timezone: Asia/Kolkata
+
+  - name: Pune
+    latitude: 18.5204
+    longitude: 73.8567
+    timezone: Asia/Kolkata
+
+  - name: Ahmedabad
+    latitude: 23.0225
+    longitude: 72.5714
+    timezone: Asia/Kolkata
+
+  - name: Jaipur
+    latitude: 26.9124
+    longitude: 75.7873
+    timezone: Asia/Kolkata
+
+  - name: Lucknow
+    latitude: 26.8467
+    longitude: 80.9462
+    timezone: Asia/Kolkata
+
+  - name: Bhopal
+    latitude: 23.2599
+    longitude: 77.4126
+    timezone: Asia/Kolkata
+
+  - name: Nagpur
+    latitude: 21.1458
+    longitude: 79.0882
+    timezone: Asia/Kolkata
+
+  - name: Visakhapatnam
+    latitude: 17.6868
+    longitude: 83.2185
+    timezone: Asia/Kolkata
+
+  - name: Vijayawada
+    latitude: 16.5062
+    longitude: 80.6480
+    timezone: Asia/Kolkata
+
+  - name: Coimbatore
+    latitude: 11.0168
+    longitude: 76.9558
+    timezone: Asia/Kolkata
+
+  - name: Surat
+    latitude: 21.1702
+    longitude: 72.8311
+    timezone: Asia/Kolkata
+
+  - name: Chandigarh
+    latitude: 30.7333
+    longitude: 76.7794
+    timezone: Asia/Kolkata
+
+  - name: Patna
+    latitude: 25.5941
+    longitude: 85.1376
+    timezone: Asia/Kolkata
+
+  - name: Indore
+    latitude: 22.7196
+    longitude: 75.8577
+    timezone: Asia/Kolkata
+
+  - name: Guwahati
+    latitude: 26.1445
+    longitude: 91.7362
+    timezone: Asia/Kolkata
